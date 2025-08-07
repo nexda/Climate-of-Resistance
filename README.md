@@ -1,6 +1,4 @@
 # References
-<span style="font-size: 1.2em;">This text will be slightly larger.</span>
-<span style="font-size: 0.8em;">This text will be slightly smaller.</span>
 <ol>
   <li>Public Health Agency of Canada. Pathogen Safety Data Sheets: Infectious Substances – Salmonella enterica spp. – 2011.  https://www.canada.ca/en/public-health/services/laboratory-biosafety-biosecurity/pathogen-safety-data-sheets-risk-assessment/salmonella-enterica.html. Accessed 6 June 2025.</li>
   <li>Billah MM, Rahman MS. Salmonella in the environment: a review on ecology, antimicrobial resistance, seafood contaminations, and human health implications. J Hazard Mater. 2024;13:100407. doi: 10.1016/j.hazadv.2024.100407.</li>
